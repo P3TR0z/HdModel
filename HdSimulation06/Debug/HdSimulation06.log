@@ -1,0 +1,5 @@
+﻿  HdImage.cpp
+C:\Users\dor\source\repos\HdSimulation06\HdSimulation06\HdImage.cpp(70,134): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  HdSimulation06.cpp
+  Generating Code...
+  HdSimulation06.vcxproj -> C:\Users\dor\source\repos\HdSimulation06\Debug\HdSimulation06.exe
