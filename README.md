@@ -1,4 +1,5 @@
 //    Simularea unui hard disk la nivel fizic si la nivel logic
+
 //
 //    - un hard disk este organizat fizic in sectoare si logic in partitii
 //    - un sector este un grup cu lungime fixa de octeti
